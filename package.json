@@ -1,0 +1,16 @@
+{
+  "name": "api-catalogo-jogos",
+  "version": "1.0.0",
+  "description": "API REST local para gerenciar um catálogo pessoal de jogos",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "keywords": ["api", "express", "jogos", "nodejs"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
